@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am an IT student pursuing a B.Tech degree at AKGEC (Ghaziabad) with a strong foundation in web development. I have hands-on experience in both frontend and backend technologies, including HTML, CSS, JavaScript, and React for building dynamic and responsive user interfaces. On the backend, I am proficient in Node.js, Express.js, and MongoDB, enabling me to develop scalable and efficient server-side applications. I am passionate about building seamless web experiences and continuously expanding my skills in full-stack development.
+<h3>I am an IT student pursuing a B.Tech degree at AKGEC (Ghaziabad) with a strong foundation in web development. I have hands-on experience in both frontend and backend technologies, including HTML, CSS, JavaScript, and React for building dynamic and responsive user interfaces. On the backend, I am proficient in Node.js, Express.js, and MongoDB, enabling me to develop scalable and efficient server-side applications. I am passionate about building seamless web experiences and continuously expanding my skills in full-stack development.</h3>
 
 <!--
 **iamkushagra2021/iamkushagra2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
